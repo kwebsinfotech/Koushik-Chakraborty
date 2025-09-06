@@ -1,0 +1,5 @@
+{
+  "name": "AI Mockup Generator",
+  "description": "An application that uses AI to generate professional product mockups. Users can upload a product image, a design, select a model type, and optionally add a background to create five unique mockup variations automatically.",
+  "requestFramePermissions": []
+}
